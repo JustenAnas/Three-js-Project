@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Meow+Script&family=Yrsa:ital,wght@0,300..700;1,300..700&display=swap");
+    </style>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>planet</title>
+  </head>
+  <body>
+    <body>
+     
+     <div class="w-full h-screen overflow-hidden">
+      <div class="w-full h-screen absolute top-0 left-0 z-[2] text-white">
+        <nav
+          class="w-full flex justify-between items-center py-8 px-10"
+        >
+          <h3>Planets</h3>
+          <div class="flex gap-6">
+            <a class="text-sm" href="#">Home</a>
+            <a class="text-sm" href="#">About</a>
+            <a class="text-sm" href="#">Contact</a>
+          </div>
+        </nav>
+        <div
+          class="absolute top-[10%] left-1/2 -translate-x-1/2 text-center"
+        >
+          <div class="w-full h-[8em]   overflow-hidden">
+            <h1
+              class="heading font-light tracking-tighter text-9xl text-white font-['Meow_Script']"
+            >
+              Earth
+            </h1>
+            <h1
+              class="heading font-light tracking-tighter text-9xl text-white font-['Meow_Script']"
+            >
+              Csilla
+            </h1>
+            <h1
+              class="heading font-light tracking-tighter text-9xl text-white font-['Meow_Script']"
+            >
+              Venus
+            </h1>
+            <h1
+              class="heading font-light tracking-tighter text-9xl text-white font-['Meow_Script']"
+            >
+              Volcanic
+            </h1>
+          </div>
+          <p class="text-sm text-white/80 font-[yrsa]">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+          </p>
+          <div
+            class="w-[28rem] h-px bg-gradient-to-r from-transparent via-white to-transparent mt-4 pointer-events-none"
+          ></div>
+        </div>
+      </div>
+      <canvas id="canvas"></canvas>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
