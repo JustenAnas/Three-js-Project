@@ -34,7 +34,7 @@ npm run dev
 
 ## 🌌 Live Demo
 
-Check out the live demo and feel the cosmic vibes: *(Add your demo link here)*
+Check out the live demo and feel the cosmic vibes: *(https://planetjs.netlify.app/)*
 
 ## ✨ Author
 
