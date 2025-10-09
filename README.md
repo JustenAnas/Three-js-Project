@@ -14,6 +14,7 @@ view here - https://planetjs.netlify.app/
 It blends shaders, gradient transitions, and interactive 3D motion for a visually rich landing page experience.  
 This project focuses on smooth performance, elegant UI transitions, and precise motion control — built using **Three.js**, **GSAP**, and **Tailwind CSS**.  
 view here - https://devbco.netlify.app/
+
 ---
 
 ## 🌟 What’s Next?
