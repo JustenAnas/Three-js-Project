@@ -62,10 +62,16 @@ git clone https://github.com/JustenAnas/zajno.git
 ```
 
 Install dependencies:
-```npm install```
+
+```bash
+npm install
+```
 
 Start the development server:
-```npm start```
+
+```bash
+npm start
+```
 
 ---
 
