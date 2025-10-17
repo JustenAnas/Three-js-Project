@@ -39,12 +39,13 @@ Explore modern web design with **Three.js**, **GSAP**, and **Locomotive Scroll**
 ## 📸 Screenshots
 
 **Interactive hover effect on images**  
-![Screenshot 1](<img width="1889" height="837" alt="image" src="https://github.com/user-attachments/assets/2b28b5e7-f456-4e5b-9ea7-2635ce3913be" />
-)
+![Screenshot 1]
+<img width="1889" height="837" alt="image" src="https://github.com/user-attachments/assets/2b28b5e7-f456-4e5b-9ea7-2635ce3913be" />
+
 
 **Creative 3D scene with smooth transitions**  
-![Screenshot 2](<img width="1910" height="870" alt="image" src="https://github.com/user-attachments/assets/ddc9eef8-2c8a-4f66-a603-d7baccc96ab6" />
-)
+![Screenshot 2]
+<img width="1910" height="870" alt="image" src="https://github.com/user-attachments/assets/ddc9eef8-2c8a-4f66-a603-d7baccc96ab6" />
 
 **More Cool Screenshots**
 <img width="1907" height="887" alt="image" src="https://github.com/user-attachments/assets/3febab34-d294-4efa-82a8-0a79b25f750b" />
