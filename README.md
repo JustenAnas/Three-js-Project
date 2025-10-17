@@ -17,7 +17,7 @@ view here - https://devbco.netlify.app/
 
 ### 3. Zajno Clone
 The Zajno Clone is a creative digital studio website clone, showcasing interactive 3D animations, GLSL shaders, and smooth scroll effects. It’s a playground for experimenting with advanced visual effects and shader-driven interactions. Built using Three.js, GSAP, and Locomotive Scroll, this project combines artistic flair with cutting-edge web technology. Dive into immersive 3D web experiences and explore the seamless hover and scroll-based animations.
-view here - [Add your Zajno project link here]
+view here -  https://zajnoclone.netlify.app/
 
 ---
 
