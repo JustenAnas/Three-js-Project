@@ -23,7 +23,7 @@ view here - [Add your Zajno project link here]
 
 ⚡ Tech Stack & Features
 
-##Tech Stack:
+###Tech Stack:
 
 🖥️ Three.js – 3D Web Graphics
 
@@ -37,7 +37,7 @@ view here - [Add your Zajno project link here]
 
 🎨 Tailwind CSS – Responsive design & styling
 
-##Key Features:
+###Key Features:
 
 ✨ Interactive 3D planes and hover effects
 
