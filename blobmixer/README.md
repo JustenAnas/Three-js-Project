@@ -41,3 +41,51 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/JustenAnas/Three-js-Project.git
+```
+
+Navigate to the Blobmixer folder:
+```
+cd Three-js-Project/blobmixer
+```
+
+Install dependencies:
+```
+npm install
+```
+
+Start the development server:
+```
+npm run dev
+```
+
+Build the project for production:
+```
+npm run build
+```
+---
+## How It Works 
+- Three.js generates a dynamic 3D scene with a camera, lighting, and shaders for realistic blob animations
+- Custom vertex and fragment shaders (GLSL) allow real-time texture manipulations and beautiful hover effects on images.
+- GSAP animates hover interactions and mouse movements with smooth transitions. -
+-  The 3D scene is rendered to a canvas, and elements adjust dynamically on window resize.
+  
+---
+
+## 🔑 Key Components
+- **Three.js Scene**: The heart of the project, handling 3D rendering and animations.
+- **GLSL Shaders**: Stunning visual effects for textures and mouse interactions.
+- **Mouse Interaction**: Hover over images to trigger real-time animations.
+- **GSAP Animations**: Smooth transitions for hover effects and scene updates.
+  
+ ---
+ 
+ ## 🧑‍🎨 Credits - **Blobmixer**: The original inspiration behind this project. 
+ - **Three.js**: A JavaScript library for 3D graphics. 
+ - **GSAP**: A powerful animation library.
+ - **Tailwind CSS**: Utility-first CSS framework.
+  
+   ---
+   
+ ## 📄 License This project is licensed under the MIT License. See the LICENSE file for details.
+ 
+ 🔧 Made with ❤️ by Anas  
