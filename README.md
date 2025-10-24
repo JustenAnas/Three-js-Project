@@ -15,7 +15,41 @@ It blends shaders, gradient transitions, and interactive 3D motion for a visuall
 This project focuses on smooth performance, elegant UI transitions, and precise motion control — built using **Three.js**, **GSAP**, and **Tailwind CSS**.  
 view here - https://devbco.netlify.app/
 
+### 3. Zajno Clone
+The Zajno Clone is a creative digital studio website clone, showcasing interactive 3D animations, GLSL shaders, and smooth scroll effects. It’s a playground for experimenting with advanced visual effects and shader-driven interactions. Built using Three.js, GSAP, and Locomotive Scroll, this project combines artistic flair with cutting-edge web technology. Dive into immersive 3D web experiences and explore the seamless hover and scroll-based animations.
+view here -  https://zajnoclone.netlify.app/
+
 ---
+
+⚡ Tech Stack & Features
+
+### Tech Stack:
+
+🖥️ Three.js – 3D Web Graphics
+
+🎨 GLSL Shaders – Custom vertex & fragment effects
+
+💫 GSAP – Smooth animations & hover effects
+
+🏎️ Vite – Fast development & bundling
+
+🌬️ Locomotive Scroll – Smooth scrolling experience
+
+🎨 Tailwind CSS – Responsive design & styling
+
+### Key Features:
+
+✨ Interactive 3D planes and hover effects
+
+🎥 Shader-driven animations for immersive visuals
+
+📱 Fully responsive for desktop & mobile
+
+🚀 Optimized for smooth performance
+
+🎮 Creative UI/UX for portfolios, landing pages, or studio clones
+
+----
 
 ## 🌟 What’s Next?
 
