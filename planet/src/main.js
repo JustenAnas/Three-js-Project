@@ -3,6 +3,8 @@ import * as THREE from "three";
 import { RGBELoader } from "three/examples/jsm/loaders/RGBELoader.js";
 import gsap from "gsap";
 import 'ldrs/ring'
+ 
+
 // Get the canvas element
 const canvas = document.getElementById("canvas");
 
@@ -26,7 +28,14 @@ camera.position.z = 9;
 //throttle wheel 
 let lastWheelTime = 0;
 let scrollCount = 0;
+
+ 
+
+ 
+
 function throttledWheelHandler(event) {
+ 
+
   const now = Date.now();
   if (now - lastWheelTime > 2000) {
     lastWheelTime = now;
